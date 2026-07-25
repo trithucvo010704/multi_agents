@@ -1,0 +1,4 @@
+interface:
+  display_name: "Plan Backend Story Tasks"
+  short_description: "Propose and write approved Backend Tasks for one Story"
+  default_prompt: "Plan Backend Tasks for the requested Story and wait for approval before writing files."

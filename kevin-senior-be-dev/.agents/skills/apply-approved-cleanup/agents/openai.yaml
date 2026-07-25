@@ -1,0 +1,4 @@
+interface:
+  display_name: "Apply Approved Cleanup"
+  short_description: "Apply only approved non-functional cleanup items"
+  default_prompt: "Apply only the explicitly approved cleanup proposal, then build, test, and verify the diff."

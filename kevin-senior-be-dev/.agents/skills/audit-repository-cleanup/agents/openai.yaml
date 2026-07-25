@@ -1,0 +1,4 @@
+interface:
+  display_name: "Audit Repository Cleanup"
+  short_description: "Find safe cleanup candidates without changing code"
+  default_prompt: "Audit this Backend repository and propose safe cleanup candidates without modifying files."
